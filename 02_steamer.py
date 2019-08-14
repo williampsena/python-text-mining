@@ -23,7 +23,7 @@ stop_words = set(stopwords.words('portuguese') + [
 
 # Steamming words, derrota or derrotar or derrotei == derrot
 stemmer = RSLPStemmer()
-quotes = [(stemmer.stem(q[0].lower()), q[1]) for q in vegeta_quotes]
+quotes = [(stemmer.stem(q.lower()), f) for (q, f) in vegeta_quotes]
 
 filtered = []
 
