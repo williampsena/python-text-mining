@@ -9,7 +9,7 @@ vegeta_quotes = [
     ('O melhor guerreiro nao e aquele que sempre ganha, mas o que mantem o seu orgulho mesmo na derrota', 'orgulhoso'),
     ('Enquanto o inimigo estiver na minha frente, eu lutarei.', 'confiante'),
     ('Eu sou calmo e tenho o coracao puro... mas e pura maldade.', 'sincero'),
-    ('Meu coração e puro... pura maldade!', 'sincero'),
+    ('Meu coracao e puro... pura maldade!', 'sincero'),
     ('Verme insolente nao entre na frente.', 'bravo'),
     ('O miseravel e um genio.', 'feliz')
 ]
