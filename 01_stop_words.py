@@ -5,7 +5,7 @@ from nltk.tokenize import word_tokenize
 pp = pprint.PrettyPrinter(width=41, compact=True)
 
 vegeta_quotes = [
-    ('voce nao e derrotado quando perde, mais sim quando você desiste.', 'confiante'),
+    ('voce nao e derrotado quando perde, mais sim quando voce desiste.', 'confiante'),
     ('O melhor guerreiro nao e aquele que sempre ganha, mas o que mantem o seu orgulho mesmo na derrota', 'orgulhoso'),
     ('Enquanto o inimigo estiver na minha frente, eu lutarei.', 'confiante'),
     ('Eu sou calmo e tenho o coracao puro... mas e pura maldade.', 'sincero'),
