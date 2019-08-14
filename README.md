@@ -25,8 +25,6 @@ python -m nltk.downloader popular rslp
 
 ### Run samples
 
-NTLK requires some extra data.
-
 ```
 python 01_stop_words.py
 python 02_steamer.py
