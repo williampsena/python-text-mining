@@ -20,7 +20,7 @@ pip install -r requirements.txt
 NTLK requires some extra data.
 
 ```
-python -m nltk.downloader popular
+python -m nltk.downloader popular rslp
 ```
 
 ### Run samples
@@ -29,4 +29,5 @@ NTLK requires some extra data.
 
 ```
 python 01_stop_words.py
+python 02_steamer.py
 ```
