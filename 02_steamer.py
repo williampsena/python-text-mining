@@ -21,7 +21,7 @@ stop_words = set(stopwords.words('portuguese') + [
     '!'
 ])
 
-# Steamming words, derrota ou derrotar ou derrotei == derrot, comprar
+# Steamming words, derrota or derrotar or derrotei == derrot
 stemmer = RSLPStemmer()
 quotes = [(stemmer.stem(q[0].lower()), q[1]) for q in vegeta_quotes]
 
