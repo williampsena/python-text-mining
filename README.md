@@ -28,4 +28,5 @@ python -m nltk.downloader popular rslp
 ```
 python 01_stop_words.py
 python 02_steamer.py
+python 03_words_frequencies.py
 ```
